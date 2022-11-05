@@ -1,6 +1,6 @@
 export const drinkData = [
     {
-        name: "Red tea" ,
+        name: "red tea" ,
         price: 1.20,
         size: "cup",    
     },  
